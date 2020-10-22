@@ -6,7 +6,7 @@ Steps for getting started
 2) npm run dev
 
 Library's included
-express
-cors
-nodemon
+1) express
+2) cors
+3) nodemon
 
